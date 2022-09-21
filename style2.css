@@ -1,0 +1,61 @@
+body{
+    margin:0;
+    padding:0;
+
+}
+
+.nav{
+    margin: 4px;
+    height: 150px;
+    outline: 4px solid blueviolet;
+    background-color: cornsilk;
+    display: flex;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.home, .music, .games, .trollge{
+    width: 25%;
+    height: 100%;
+
+}
+
+.home, .music, .games, .trollge{
+    margin-right: 4px;
+}
+
+.home{
+    background-color: crimson;
+}
+
+.music{
+    background-color: cyan;
+}
+
+.games{
+    background-color: darkgreen;
+}
+
+.trollge{
+    background-color: chartreuse;
+}
+
+.center {
+    height: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+  .d1, .d2, .d3{
+    outline: 4px solid salmon;
+    background-color: aqua;
+    line-height: 1cm;
+    margin-bottom: 20px;
+    height: 50px;
+    margin: 30px;
+    
+  }
+  
+  
